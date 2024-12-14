@@ -1,0 +1,12 @@
+org.apache.pdfbox.pdfparser.PDFParser
+org.apache.pdfbox.pdmodel.PDDocument
+org.apache.pdfbox.pdmodel.PDPageContentStream
+org.apache.pdfbox.pdmodel.font.PDFontDescriptor
+org.apache.pdfbox.pdfwriter.COSWriter
+org.apache.pdfbox.cos.COSDocument
+org.apache.fontbox.ttf.TrueTypeFont
+org.apache.pdfbox.pdmodel.PDPage
+org.apache.pdfbox.text.PDFTextStripper
+org.apache.pdfbox.pdmodel.common.PDMetadata
+org.apache.pdfbox.pdmodel.font.PDFont
+org.apache.pdfbox.pdmodel.font.PDFontLike
